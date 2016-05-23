@@ -1,0 +1,2 @@
+[+] 22 /tcp open
+[+] 80 /tcp open
